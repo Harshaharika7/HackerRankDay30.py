@@ -59,7 +59,7 @@ Option 1: With input file
 
 Option 2: Manual input
 
-        python3 bitwise_and.py
+        python3 print_queue.py
 
 # 🔗 HackerRank Challenge Link
 
