@@ -53,9 +53,9 @@ The document at index 2 (priority 9) is printed first even if it’s 3rd in line
 
 Option 1: With input file
 
-        python3 bitwise_and.py < input.txt1
+        python3 print_queue.py < input.txt1
         
-        python3 bitwise_and.py < input.txt2
+        python3 print_queue.py < input.txt2
 
 Option 2: Manual input
 
